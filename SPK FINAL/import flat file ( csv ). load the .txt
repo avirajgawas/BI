@@ -1,0 +1,1 @@
+import flat file ( csv ). load the file in system. use dataset. (SalesJan2009).

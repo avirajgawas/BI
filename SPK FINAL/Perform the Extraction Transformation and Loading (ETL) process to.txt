@@ -1,0 +1,36 @@
+odatafeed = http://services.odata.org/V3/Northwind/Northwind.svc/ 
+
+Add orders and products. and click on transform.
+
+in products table select (productid,productname,quantityperunit,unitinstock)
+
+and other column remove.
+
+select unitinstock column .select data type = whole number.
+
+select orders table. and select order_details.click on two arrow sign. and select all and press ok.
+
+click on Add column in bar. select custom column
+
+column name = lineTotal
+
+=[order_Details.UnitPrice]*[Order_Details.Quantity]
+
+click on Ok button.
+
+Rename the lineTotal column to stockvalue
+
+lineTotal=stockvalue
+
+And drag the stockvalue column to side of shipcountry column.
+
+
+Then click on close&Apply.
+
+the 2 tables load in power BI.
+
+select orders table. And select Manage relationship.
+
+Click edit and check the relationship. and click ok.
+
+And click model. and model has been created.

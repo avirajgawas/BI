@@ -1,0 +1,8 @@
+ETL Transformation Convertig attribute Name from lower to upper.
+Click on transform data. Click on CustomerID column.
+
+Right click on CustomerID Select TranForm option.
+
+Click on lower.
+
+ok......................

@@ -1,0 +1,1 @@
+import exel file. load the file in system. use dataset. (Superstore).

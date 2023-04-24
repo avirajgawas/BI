@@ -1,0 +1,9 @@
+Click on the DATA tab.
+click on the option From Access.
+Select Events3_Data.mdb.
+Check the ‘Enable selection of multiple tables’ box, and select two or more tables. (Attendess,Employees)
+Then click OK. 
+
+select pivote table report option.
+
+end .....................
