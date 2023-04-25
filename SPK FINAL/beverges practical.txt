@@ -1,0 +1,8 @@
+select odata feed. 
+select products 9090 table. 
+select Transform.
+
+Right click on arrow column table.
+
+Select one beverges field.
+then ok.

@@ -1,0 +1,26 @@
+select odata. http://services.odata.org/V3/Northwind/Northwind.svc
+
+select table sales_Tptals_by_Amounts.
+
+click on Transform data.
+
+change the sale amount column data type = whole number.
+
+Add custom column . name = total cost.
+
+column name = Rupees 
+
+select sale amount column* 80.
+
+press ok.
+
+change the Rupees column data type = whole number.
+
+close and apply.
+
+sales amount column . currancy = $
+
+and Ruppes column. currancy = bangla.
+
+and ok.
+
